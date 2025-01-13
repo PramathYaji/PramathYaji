@@ -11,14 +11,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization                                | Penetration Testing Home Lab|
-| Vulnerability Assessment                      | Penetration Testing Home Lab|
-| SQL Injection, XSS                            | Penetration Testing Home Lab|
-| LinPEAS                                       | Penetration Testing Home Lab|
+| Virtualization                                | <a href="https://github.com/PraxmaLord/PentestingHomeLab">Penetration Testing Home Lab</a>|
+| Vulnerability Assessment                      | <a href="https://github.com/PraxmaLord/PentestingHomeLab">Penetration Testing Home Lab </a>|
 | Azure Sentinel                                | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
-| KQL Queries                         | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
-| Azure Security Center                                  | Azure SOC Automation Lab   |
-| MISP Instance                                 | Azure SOC Automation Lab   |
+| KQL Queries                                   | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
+| Azure Security Center                         | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
 | DVWA                                          | Web Application Pentesting Lab|
 | Automation of Attacks                         | Web Application Pentesting Lab|
 
