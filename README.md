@@ -23,11 +23,34 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-0071C5?style=for-the-badge&logo=Nmap&logoColor=white" />
-    
+
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-blue?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-red?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=for-the-badge)
+![Scapy](https://img.shields.io/badge/Scapy-Packet%20Crafting-brightgreen?style=for-the-badge)
+
 </div>
+
+
+### Python AI Stack
+<div>
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-ML%20Framework-f7931e?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge)
+
+</div>
+
+### Security + AI
+<div>
+
+![Behavioral Analytics](https://img.shields.io/badge/Behavioral%20Analytics-UEBA-6c3483?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-orange?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-Security%20AI-darkred?style=for-the-badge)
+
+</div>
+
 
 ### Endpoint
 <div>
@@ -40,8 +63,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-Cloud%20SIEM-0078D4?style=for-the-badge)
+![Log Management](https://img.shields.io/badge/Log%20Management-Centralized%20Logging-2c3e50?style=for-the-badge)
+![Correlation](https://img.shields.io/badge/Event%20Correlation-Threat%20Detection-34495e?style=for-the-badge)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-Security%20Analytics-8e44ad?style=for-the-badge)
 
 </div>
 
