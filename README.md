@@ -16,8 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Azure Sentinel                                | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
 | KQL Queries                                   | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
 | Azure Security Center                         | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
-| DVWA                                          | Web Application Pentesting Lab|
-| Automation of Attacks                         | Web Application Pentesting Lab|
+| Machine Learning for Anomaly Detection                                          | AI-Powered Anomaly Detection|
+| Feature engineering for Security Data                         | AI-Powered Anomaly Detection|
 
 ## Tools
 
