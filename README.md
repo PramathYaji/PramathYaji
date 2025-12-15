@@ -6,7 +6,7 @@ I am a Cybersecurity graduate student at University at Buffalo with a profound i
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to strengthen the security posture in an Organization, working alongside the Blue Team.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to strengthen the security posture in an organization, working alongside the Blue Team.
 ## Skills
 
 | Skill                                         | Associated Project         |
