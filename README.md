@@ -2,12 +2,11 @@
 <a href="https://linkedin.com/in/pramath-yaji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.pramathyaji.com/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
 
-I am a Cybersecurity graduate student at University at Buffalo with a profound interest in Penetration Testing.
+I am a Cybersecurity graduate student at University at Buffalo with a profound interest in Blue Teaming.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to Red Team in an Organization for Penteration Testing.
-
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to strengthen the security posture in an Organization, working alongside the Blue Team.
 ## Skills
 
 | Skill                                         | Associated Project         |
