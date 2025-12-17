@@ -11,13 +11,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization                                | <a href="https://github.com/PraxmaLord/PentestingHomeLab">Penetration Testing Home Lab</a>|
-| Vulnerability Assessment                      | <a href="https://github.com/PraxmaLord/PentestingHomeLab">Penetration Testing Home Lab </a>|
-| Azure Sentinel                                | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
-| KQL Queries                                   | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
-| Azure Security Center                         | <a href="https://github.com/PraxmaLord/SOConAzure">Azure SOC Automation Lab</a>   |
-| Machine Learning for Anomaly Detection                                          | AI-Powered Anomaly Detection|
-| Feature engineering for Security Data                         | AI-Powered Anomaly Detection|
+| Virtualization                                | <a href="https://github.com/PramathYaji/PentestingHomeLab">Penetration Testing Home Lab</a>|
+| Vulnerability Assessment                      | <a href="https://github.com/PramathYaji/PentestingHomeLab">Penetration Testing Home Lab </a>|
+| Azure Sentinel                                | <a href="https://github.com/PramathYaji/SOConAzure">Azure SOC Automation Lab</a>   |
+| KQL Queries                                   | <a href="https://github.com/PramathYaji/SOConAzure">Azure SOC Automation Lab</a>   |
+| Azure Security Center                         | <a href="https://github.com/PramathYaji/SOConAzure">Azure SOC Automation Lab</a>   |
+| Machine Learning for Anomaly Detection                                          | <a href="https://github.com/PramathYaji/AI-Powered-Anomaly-Detection">AI-Powered Anomaly Detection</a>|
+| Feature engineering for Security Data                         | <a href="https://github.com/PramathYaji/AI-Powered-Anomaly-Detection">AI-Powered Anomaly Detection</a>|
 
 ## Tools
 
