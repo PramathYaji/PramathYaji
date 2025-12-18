@@ -1,5 +1,7 @@
 # Hi! I'm Pramath Yaji
 <a href="https://linkedin.com/in/pramath-yaji"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@pramathyaji"><img src=""><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 <!-- <a href="https://www.pramathyaji.com/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"> -->
 
 I am a Cybersecurity graduate student at University at Buffalo with a profound interest in Blue Teaming.
