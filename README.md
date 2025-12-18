@@ -18,6 +18,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Azure Security Center                         | <a href="https://github.com/PramathYaji/SOConAzure">Azure SOC Automation Lab</a>   |
 | Machine Learning for Anomaly Detection                                          | <a href="https://github.com/PramathYaji/AI-Powered-Anomaly-Detection">AI-Powered Anomaly Detection</a>|
 | Feature engineering for Security Data                         | <a href="https://github.com/PramathYaji/AI-Powered-Anomaly-Detection">AI-Powered Anomaly Detection</a>|
+| Web Application Security                               | <a href="https://github.com/PramathYaji/WebVulnerability-Mitigation">Web Vulnerability Mitigation</a>|
+
 
 ## Tools
 
